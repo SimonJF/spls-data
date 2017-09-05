@@ -1,0 +1,199 @@
+speaker|institution|talk_title|event_id
+Christopher Brown|StA|ParaFormance: Democratizing Parallel Software Development|0
+Andrew Gozillon|UWS|Programmable address spaces|0
+Conor McBride|SC|Why walk when you can take the tube?|0
+Michel Steuwer|ED|Towards Composable GPU Programming: Programming GPUs with Eager Actions and Lazy Views|0
+Rob Stewart|HW|Mapping dataflow programs to FPGAs|0
+Thomas Wright|ED|Process algebra meets cellular biology|0
+David Castro|StA|Automatically Deriving Cost Models for Structured Parallel Processes Using Hylomorphisms|1
+Natalia Chechina|GL|Let it Crash and Scale|1
+Chris Cummins|ED|Using deep learning to generate human-like code|1
+Robert Atkey|SC|Compiling Parallel Functional Code with Data Parallel Idealised Algol|1
+Daniel Hillerström|ED|An Abstract Machine Semantics for Handlers|1
+Wen Kokke|ED|Give or Take: Non-Determinism, Linear Logic and Session Types|1
+Matúš Tejiščák|StA|Extending Dependent Types with Erasure|1
+Murdoch Gabbay|HW|Consistency of Quine's NF using nominal techniques|2
+Simon Fowler|ED|Relating Channels and Actor-based Languages in Concurrent Lambda-Calculi|2
+Martin Ward|O|Provably Correct Transformation of Specifications into Programs|2
+Jan de Muijnck-Hughes|StA|Type-Driven Design of Communicating Systems using Idris|2
+Craig McLaughlin|ED|The essence of Frank programming|2
+Stephen Dolan|O|Irrelevant classical logic in Agda|2
+Tim Harris|O|Do Not Believe Everything You Read in the Papers|3
+Artem Shinkarov|HW|Array-based data-parallel languages --- so what?|3
+Phil Trinder|GL|Scaling Reliably: Improving the Scalability of the Erlang Distributed Actor Platform|3
+Paul Keir|UWS|Compile-time Catamorphisms in C++|3
+Brian Campbell|ED|Tactical refinement types for proving invariants|3
+Patrick Maier|GL|Adaptive skeletons|3
+Peng Fu|HW|Proof Relevant Corecursive Resolution|3
+Wim Vanderbauwhede|GL|It was finally Christmas: Perl 6 is here|4
+Jeremy Singer|GL|Developing a Haskell MOOC at Glasgow|4
+James McKinna|ED|Complements Witness Consistency|4
+Christopher Jefferson|StA|Adding Profiling and Code Coverage to GAP|4
+Adam Harries|ED|Compositional Compilation for Sparse, Irregular Data Parallelism|4
+Robert Atkey|SC|An Interference Controlled Language for Parallel Imperative Programming|4
+Danel Ahman|ED|Dependent Types and Fibred Computational Effects|5
+Guillaume Allais|SC|Type and Scope Preserving Semantics|5
+James Chapman|SC|Relative Monads|5
+Aaron Crane|O|Writing immutable software in a mutable language|5
+Charles Grellois|DD|Linear logic, duality, and higher-order model-checking|5
+Shayan Najd|ED|Quoted Domain-Specific Languages, an Interesting Spot in the Design Space|5
+Roly Perera|GL|Behavioural Prototypes|5
+Matúš Tejiščák|StA|Erasure in dependently typed functional languages|5
+Neil Ghani|SC|Towards Higher Dimensional Parametricity|6
+Conor McBride|SC|A few observations about testing|6
+Adam Barwell|StA|Introducing Parallelism to Erlang Programs by Breaking Dependencies|6
+Sam Elliott|StA|Erlang meets Dependent Types|6
+Magnus Morton|GL|Costing JIT Traces for Adaptive Parallelism|6
+Michel Steuwer|ED|Generating Performance Portable Code using Rewrite Rules From High-level Functional Expressions to High-Performance OpenCL Code|6
+Paul Harvey|GL|An Actor-based Programming Language for the Internet of Things and Concurrency|7
+Adam Gundry|O|Units of measure as a GHC plugin|7
+Sam Lindley|ED|A semantics for propositions as sessions|7
+Dominic Orchard|O|Effects in a pi|7
+Wim Vanderbauwhede|GL|A Prototype-based Perl Type System for Interaction with Haskell|7
+Paul Kelly|O|Abstraction is not always theft: domain-specific representations in code generation for mesh-based computational science applications|8
+Adam Barwell|StA|Program Shaping for Parallelism|8
+Conor McBride|SC|Traffic-Dependent Session Types|8
+David Castro|StA|Using Dependent Types to Reason about Structured Parallel Programs|8
+Manuel Maarek|GL|Intrinsic Security of Functional Languages: Outcome of the LaFoSec Study|8
+Josef Svenningsson|O|An expressive semantics of mocking|8
+Ryan Newton|O|Stream-processing for Functional Programmers|9
+Joe Sventek|GL|An Automaton Programming Language for Dynamic, Distributed, Complex Event Processing Systems|9
+Andrew Richards|O|The New SYCL for OpenCL Standard: C++ Metaprogramming for Heterogeneous Systems|9
+Stevan Andjelkovic|SC|Session Type-like Reasoning Using Multi-sorted Term Algebras|9
+Edwin Brady|StA|Resource-dependent Algebraic Effects for Communication Protocols|9
+Greg Michaelson|HW|How domain specific are Domain Specific Languages?|9
+Andy Gordon|ED|Tabular: A Schema-Driven Probabilistic Programming Language|10
+Davide Ancona|O|Sound and complete subtyping between coinductive types for object-oriented languages|10
+Joseph Davidson|HW|Models and Modalities|10
+Alexander Konovalov|StA|Recomputation in Scientific Experiments|10
+Adam Barwell|StA|Using Erlang Skeletons to Parallelise Realistic Medium-Scale Parallel Programs|10
+Fredrik Nordvall Forsberg|SC|Restricted dependent bounded linear types for arbitrary resources|10
+Andy Gill|O|HERMIT - Equational Reasoning in Haskell and GHC Core|11
+Kevin Hammond|StA|Predictable Timing Behaviour on x86 Multicores using High-Level Patterns of Parallelism|11
+Robert Atkey|SC|From Parametricity to Conservation Laws, via Noether's Theorem|11
+Marco Gaboardi|DD|Linear Dependent Types and Program Analysis|11
+Greg Michaelson|HW|The I/O Hokey-Cokey|11
+Christopher Jefferson|StA|Concepts in C++ - How we messed up adding concepts to C++ for C++11, and how hope to fix it for C++14 (or 17)|12
+Ward Jaradat|StA|Decentralised Orchestration of Service-oriented Workflows|12
+Patrick Maier|GL|Reliable Scalable Symbolic Computation: The Design of SymGridPar2|12
+Ghaffari Amir|HW|Scaling Erlang|12
+Simon Dobson|StA|Virtual machine support for concurrency|12
+Neil Ghani|SC|Fibrational Parametricity|12
+Simon Gay|GL|Programs + Communication Structures = Systems|12
+Philip Wadler|ED|Propositions as Sessions|12
+Sam Lindley|SC|Generalising algebraic effects to support idioms and arrows|12
+Neel Krishnaswami|O|Simple and Efficient Higher-Order Reactive Programming|13
+Christopher Brown|StA|The ParaPhrase Project: Parallel Patterns for Heterogenous Multicore Systems|13
+Sam Lindley|SC|Handlers in Action|13
+Danel Ahman|ED|Computational effects (and their handlers) in normalization by evaluation|13
+Jeremy Singer|GL|JVM Linguistics: A dynamic analysis of Non-Java JVM languages|13
+Simon Fowler|StA|Tactile Terms demonstration|13
+Conor McBride|SC|Totality versus Turing Completeness|14
+Iain McGinniss|GL|Experiments in standard library design with Plaid|14
+Ohad Kammar|ED|Handlers in Action|14
+Simon Gay|GL|Linear Types in Programming Languages: Progress and Prospects|14
+Robert Atkey|SC|How to be a productive programmer by putting things off until tomorrow|15
+Edwin Brady|StA|Epic: a library for generating compilers|15
+Brian Campbell|ED|An executable semantics for CompCert|15
+Kevin Hammond|StA|ParaForming: using Refactoring to form Parallel Haskell programs|15
+Sam Lindley|ED|Row-based effect types for database integration and concurrency|15
+Patrick Maier|HW|Haskell distributed parallel Haskell|15
+Jeremy Singer|GL|Java heap resizing policies: from hacked-up heuristics to mathematical methods|15
+Christophe Dubach|ED|LiquidMetal: a unified programming language and runtime for heterogeneous platforms|16
+Aziem Chawdhary|ED|Proving the Soundness of Abstract Interpreters for Liveness Properties using Metric Spaces|16
+Adam Gundry|SC|Types with units of measure|16
+Gordon Guthrie|O|Amortised Resource Analysis for Java Bytecode|16
+Robert Atkey|SC|Generalised Parsing with Combinators|16
+Paul Cockshott|GL|Lino and the SCC|17
+Murdoch Gabbay|HW|TBA|17
+Satnam Singh|O|Data Parallel Programming for GPUs and FPGAs in Haskell|17
+Patrick Maier|HW|Seq No More: Better Strategies for Parallel Haskell|17
+Robin Green|O|Beyond Laziness|17
+Ohad Kammar|ED|Take action for your state|17
+Iain McGinniss|GL|Typestate Languages: A Comparison|17
+James Cheney|ED|TBA|17
+Jeremy Siek|O|Monads for Relations|18
+Greg Michaelson|HW|Costing by Construction|18
+Jon Lewis|StA|Insense: a component-based language for self-configuring and self-healing wireless sensor network applications|18
+Seyed H Haeri|O|Observational Equivalence between Lazy Programs in Presence of Selective Strictness|18
+Conor McBride|SC|Jockstrapping Dependent Types|18
+Christopher Brown|StA|Ever-Decreasing Circles: a Skeleton for Parallel Orbit Calculations in Eden|18
+Hans-Wolfgang Loidl|HW|Announcement: SICSA MultiCore Challenge|19
+Edwin Brady|StA|Implementing Domain Specific Languages using Dependent Types and Partial Evaluation|19
+Robert Atkey|SC|Amortised Resource Analysis with Separation Logic|19
+Lenore M. Mullin|O|Optimization of Tensor Based Languages|19
+Philip Wadler|ED|The Audacity of Hope: Thoughts on Reclaiming the Database Dream|19
+Neil Ghani|SC|All Initial Algebras Support Induction|19
+Michael Gabbay|O|A Simple Class Of Kripke-Style Models In Which Logic And Computation Have Equal Standing|19
+Patricia Johann|SC|Short cut fusion ``in context" for recursive programs|20
+Paul Cockshott|GL|Designing a Functional Array Language for teaching compilers|20
+Robert Atkey|ED|Syntax For Free: Representing Syntax with Binding using Parametricity|20
+Paul Keir|SC|Effective Compilation of Array Expressions for High Performance Computing|20
+Vincent Rahli|HW|Challenges of a type error slicer for the SML language|20
+Mark Shannon|GL|The Glasgow Virtual Machine Toolkit|20
+Joe Wells|HW|The Algebra of Expansion|21
+Philip Wadler|ED|The Arrow Calculus|21
+John Longley|ED|Eriskay: A Programming Language Based on Game Semantics|21
+Greg Michaelson|HW|Information about SPLS and SICSA|21
+Neil Ghani|SC|Can GADTs Be Given Initial Algebra Semantics? Yes, They Kan!|21
+Nobuko Yoshida|O|From Name Passing to Observationally Complete Program Logics|22
+Sanjiva Prasad|O|An Axiomatic Basis for Communication|22
+Peter Thiemann|O|Towards Interface Types for Haskell|22
+Peter van Roy|O|Reflections on self management and the future of software design|22
+Tobias Nipkow|O|A functional programmers look at quantifier elimination for linear arithmetic|22
+James Noble|O|Multiple Ownership|22
+Yannis Smaragdakis|O|Morphing: Bringing Discipline to Meta-Programming|22
+Eijiro Sumii|O|Environmental bisimulations for higher-order languages|22
+Philip Wadler|ED|Well-typed programs can't be blamed|22
+Jan Vitek|O|StreamFlex: High-throughput Stream Programming in Java|22
+Robby Findler|O|PLT Redex: A semantics engineer's PDE|22
+Philip Wadler|ED|Well-typed programs can't be blamed|23
+Steve Linton|StA|The GAP type system|23
+Christoph Herrmann|StA|Type construction by metaprogramming|23
+Conor McBride|O|Clowns to the left of me, jokers to the right|23
+Alistair Donaldson|O|The Sieve Parallel Programming System|23
+Sam Lindley|ED|Extensional rewriting with sums|23
+Bin Li|GL|TBA|23
+Matija Pretnar|ED|Algebraic Effects|24
+Murdoch Gabbay|HW|Fraenkel-Mostowksi set theory gives a model of substitution as well as names|24
+Robert Atkey|ED|Programming a JVM using dependent types|24
+Wim Vanderbauwhede|GL|A packet-level semantics for the Gannet SoC architecture|24
+Joe Wells|HW|Explaining Concepts in Compositional Type-Based Program Analysis: Principality, Intersection Types, Expansion, etc.|25
+James Cheney|ED|Nominal Logic Programming|25
+Phil Trinder|HW|Comparing C++ and Erlang for Motorola Telecoms Software|25
+Greg Michaelson|HW|Autonomous Mobile Programs|25
+James McKinna|StA|Matching regular expressions, observably correctly|25
+Sam Lindley|ED|Links|26
+Wim Vanderbauwhede|GL|Gannet|26
+DeLesley Hutchins|ED|Subtyping and partial evaluation|26
+Simon Gay|GL|Where are the big theories in computer science?|26
+Murdoch Gabbay|HW|The NEW calculus of contexts|27
+Armelle Bonenfant|StA|Hume Cost Estimates|27
+Sebastien Carlier|HW|Expansion: Connecting Intersection Types, Type Inference, Principal Typings, Interaction Nets, etc.|27
+Alastair Donaldson|GL|Enhanced Type Checking for the SPIN Model Checker|27
+Andrew Richards|O|Codeplay's work on compilers for highly parallel systems|27
+Steffen Jost|StA|Type-based amortised heap-space analysis (for an object-oriented language)|27
+Richard Connor|SC|Typed vs Untyped: performing a real experiment?|28
+Anne Benoit|ED|Enhancing the performance of Grid Applications with Skeletons and Process Algebras|28
+Conor McBride|O|Idioms|28
+DeLesley Hutchins|ED|Feature Oriented Programming|28
+Sven-Bodo Sholz|O|Using Sub-types and Intersection Types to strike the Balance Between Static and Dynamic Typing|28
+Kenneth MacKenzie|ED|Functional Programming and Resource Bounds|29
+Hans-Wolfgang Loidl|O|Tutorial/demonstration: Certified resource bounds for the functional language Camelot|29
+Martin Hofmann|O|Heap-space inference for Java objects|29
+Professor Peter Buneman|ED|Invited talk: Ten Things I Hate about XML|29
+Alex Simpson|ED|Reduction in a Linear Lambda-calculus with Applications to Operational Semantics|29
+Henning Makholm|HW|Instant Polymorphic Type Systems for Mobile Process Calculi: Just Add Reduction Rules and Stir|29
+David Watt|GL|Mutability and Covariant Type Parameters in Object-Oriented Languages|30
+Phil Trinder|HW|Coordination Abstraction complements Data and Control Abstractions|30
+James McKinna|StA|A type correct, provably correct expression compiler: a case study in EPIGRAM|30
+Paul Cockshott|GL|Types and operators for saturated arithmetic in image processing|30
+Kenneth MacKenzie|ED|Functional Programming and Resource Bounds|30
+John Reynolds|O|Towards a Grainless Semantics of Shared-Variable Concurrency|30
+Ezra Cooper|ED|Not lost in translation: How to write great SQL in your own language, and be sure it will succeed|31
+Christophe Dubach|ED|Portable Optimising Compiler Using Machine Learning|31
+Dominic Mulligan|HW|Permissive nominal terms|31
+Hossein Haeri|HW|Proving Equivalence between Lazy Programs in Presence of Selective Strictness|31
+Andrew Birkett|O|Hadoop|31
+Youssef Gdura|GL|Porting Vector Pascal Compiler to Cell|31
+Alastair F. Donaldson|O|Method duplication|31
