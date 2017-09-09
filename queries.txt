@@ -1,0 +1,10 @@
+Talks by institution:
+
+q -H --delimiter='|' "SELECT institution, count(institution) from spls-talks.csv group by institution order by count(institution) desc limit 10"
+
+Talks by speaker:
+
+q -H --delimiter='|' "SELECT speaker, count(speaker) from spls-talks.csv group by speaker order by count(speaker) desc limit 15"
+
+Distinct speakers:
+q -H --delimiter='|' "SELECT count(distinct(speaker_name)) from spls-talks.csv"
