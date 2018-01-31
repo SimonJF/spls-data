@@ -202,3 +202,11 @@ Wim Vanderbauwhede,GL,"Programming SoCs using Scheme",32,false
 Greg Michaelson,HW,"Hume",32,false
 Joe Wells,HW,"A Calculus for Linking",32,false
 Edwin Brady,StA,"Expressing Resource Bounds in Epigram",32,false
+Adam Barwell,StA,In Search of a Map,33,true
+James Chapman,SC,Delayed NBE,33,true
+Stuart Gale,SC,Normalization or Bust,33,true
+Jan de Muijnck-Hughes,GL,Designing Hardware using Session Types and Dependent Types: A First Look,33,true
+Alastair Murray,O,Layering Abstractions: Heterogeneous Programming and Performance Portability,33,true
+Shayan Najd,ED,Embedding by Normalisation,33,true
+Chris Schwaab,StA,First class Time and Energy for Multicore Systems,33,true
+Thomas Weber,ED,Building useful UIs using Uselets,33,true
